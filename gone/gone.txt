@@ -1,0 +1,10 @@
+"gone"
+{
+	"base"		"base"
+	"title"		"Gone."
+	"maps"		"^gn_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+
+}
